@@ -1,0 +1,14 @@
+{
+  "name": "she-can-foundation-form",
+  "version": "1.0.0",
+  "description": "Simple Full Stack Form Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
